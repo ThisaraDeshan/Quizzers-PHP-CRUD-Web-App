@@ -1,0 +1,18 @@
+
+
+extract this QuizzersWebApplication.rar
+
+import db into your localhost phpMyAdmin server(database path = Database sql -> exam.sql)
+copy this extracted file in to localdisk(c) -> xaampp -> htdocs -> 
+
+open browser and type in url bar "localhost/QuizzersWebApplication/login.php"
+	for login click register link and register
+	for login to type your email address and password
+
+for admin login page type in url bar "localhost/QuizzersWebApplication/admin.php"
+	admin user name = admin@gmail.com
+	admin password  = 123
+
+
+Enjoy
+Thisara Deshan Software Developing Technologies;
